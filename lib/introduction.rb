@@ -1,7 +1,7 @@
 
 
 def #introduction(name)
-  puts "Hey ${name}"
+  puts "Hi, my name is ${name}."
 end
 
 introduction
